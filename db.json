@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "checked": true,
+      "todo": "Belajar Vanila JavaScript"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "todo": "Belajar ReactJS"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "todo": "Belajar NodeJS"
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "todo": "Belajar Linux"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "todo": "Belajar Laravel"
+    }
+  ]
+}
